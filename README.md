@@ -1,4 +1,4 @@
-# Resumo-do-lab-Introdu-o-a-computa-o-em-nuvem
+# Resumo-do-lab-Introducao-a-computacao-em-nuvem
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab Introdução a Computação em Nuvem na DIO
 
 A computação em nuvem é um modelo que permite acessar e utilizar recursos de TI (como servidores, bancos de dados, armazenamento, redes e software) de forma remota, sem a necessidade de infraestrutura física local. Isso proporciona maior flexibilidade, escalabilidade e redução de custos, além de oferecer soluções sob demanda para empresas e usuários.
